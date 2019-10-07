@@ -46,6 +46,9 @@
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
                     <tabBarItem key="tabBarItem" title="Lesson" image="Lesson" id="H6G-eu-pgH"/>
+                    <connections>
+                        <outlet property="cardSuperview" destination="5LE-CP-R3e" id="ZN0-xm-NEo"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>

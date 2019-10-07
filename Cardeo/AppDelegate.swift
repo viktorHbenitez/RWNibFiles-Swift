@@ -33,6 +33,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
   var window: UIWindow?
 
   func applicationDidFinishLaunching(_: UIApplication) {
+    
     (window!.rootViewController as! LessonViewController).cards =
       [ "Aye-Aye",
         "Blobfish",
