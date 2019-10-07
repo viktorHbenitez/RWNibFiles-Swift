@@ -33,6 +33,6 @@ Post Compilation
 
 
 ```
+![imagen](../master/Sketch/flip.gif) 
 
-
-![workflow](https://github.com/viktorHbenitez/RWNibFiles-Swift/blob/master/Sketch/NIbXib.png) 
+![workflow](https://github.com/viktorHbenitez/RWNibFiles-Swift/blob/master/Sketch/AddFileOwner.png) 
